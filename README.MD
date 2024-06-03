@@ -58,3 +58,9 @@ Api, Business logic, and unit tests for our application are located in separate 
 
 ## Test Automation
 Some xUnit tests were added to test our business logic invariants. 
+
+# Future improvements
+## Publish to Docker
+A Dockerfile can be used to deploy the application as a Docker container.
+## Publish to Azure Cloud or AWS
+GitHub actions can be created to deploy the application in Azure or AWS. There are predefined actions in the Github store that require minimum configuration.
