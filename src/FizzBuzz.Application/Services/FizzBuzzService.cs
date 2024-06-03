@@ -5,10 +5,10 @@ public class FizzBuzzService
 {
     public List<string> CalculateFizzBuzz(string[] values)
     {
-        return values.Select(x => FizzBuzz(x)).ToList();
+        return values.Select(FizzBuzz).ToList();
     }
 
-    private string FizzBuzz(string? value)
+    private string FizzBuzz(string value)
     {
         if (!int.TryParse(value, out int number))
         {
