@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sleOSFseotz+jl0GQKSw3SWiik3Zuzm6L768jsp8SPfO02f7cmghj9w4GmDe76/ws8NWZ+0XWz3mLOt8JPnFlg==",
+  "dgSpecHash": "1Vsl3pGKNQIXQngfG6RwSDvRcm3rjBhvBCpno+P05as5dJ+/agzb8FHJ6PxYFcpLqTIGvgr1FrAvN9o1N3Bd+g==",
   "success": true,
-  "projectFilePath": "C:\\dev\\fizzbuzz\\tests\\FizzBuzz.Application.Tests\\FizzBuzz.Application.Tests.csproj",
+  "projectFilePath": "C:\\dev\\fizzbuzz3\\fizzbuzz\\tests\\FizzBuzz.Application.Tests\\FizzBuzz.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serge\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
